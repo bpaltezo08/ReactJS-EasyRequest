@@ -1,9 +1,9 @@
 # ReactJS-EasyRequest
 Simplified api request created on top of axios for ReactJS
 
-# USAGE
+USAGE
 
-# Must use inside an async function
+Must use inside an async function
 await ERequest(
   method [String], 
   url [String], 
