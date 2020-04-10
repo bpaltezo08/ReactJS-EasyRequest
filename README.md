@@ -4,8 +4,9 @@ Simplified api request created on top of axios for ReactJS
 USAGE
 
 Must use inside an async function
+
 await ERequest(
-  method [String], 
+  method [String],   
   url [String], 
   headers [Object], 
   params [Object], 
